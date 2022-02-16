@@ -1,0 +1,17 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri": "mysql://root:@localhost/daniblog",
+        "prod_uri": "mysql://root:@localhost/daniblog ",
+        "about_text": "Hi my name is Danyal and I create programming tutorials and I am a good boy",
+        "blog_name": "Blog Dani.",
+        "tag_line": "Heaven for All",
+        "no_of_posts": 3,
+        "login_image":"person-plus-fill.svg",
+        "admin_user":"Dani",
+        "admin_password": "Dani",
+        "upload_location":"D:\\Dani.Blog"
+    }
+
+}
